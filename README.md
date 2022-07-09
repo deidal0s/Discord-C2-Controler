@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/">
+  <a href="https://github.com/deidal0s/Discord-C2-Controler/">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepngimg.com%2Fdownload%2Fsnake%2F20293-2-cute-snake-image.png&f=1&nofb=1" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     Control any users PC with Discord acting as the C2 Server!
     <br />
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/deidal0s/Discord-C2-Controler/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/">View Demo</a>
+    <a href="https://github.com/deidal0s/Discord-C2-Controler/">View Demo</a>
     ·
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/issues">Report Bug</a>
+    <a href="https://github.com/deidal0s/Discord-C2-Controler/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/issues">Request Feature</a>
+    <a href="https://github.com/deidal0s/Discord-C2-Controler/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Deidalos-GmbH/Discord-C2-Rootkit.git
+   git clone https://github.com/deidal0s/Discord-C2-Controler.git
    ```
 2. Go into the Directory
    ```sh
@@ -99,7 +99,7 @@ python rootkit.py
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-See the [open issues](https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/deidal0s/Discord-C2-Controler/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -128,8 +128,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Prepakis Georgios - [@deidal0s](https://twitter.com/deidal0s) - prepakis.geo@gmail.com
+Prepakis Georgios - [@deidal0s](https://twitter.com/deidal0s) - bd@crime.su
 
-Project Link: [https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/](https://github.com/Deidalos-GmbH/Discord-C2-Rootkit/)
+Project Link: [https://github.com/deidal0s/Discord-C2-Controler/](https://github.com/deidal0s/Discord-C2-Controler/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
